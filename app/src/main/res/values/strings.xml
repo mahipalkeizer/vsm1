@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">VSM1</string>
+    <string name="title_home">News</string>
+    <string name="title_dashboard">Shares</string>
+    <string name="title_notifications">LeaderBoard</string>
+</resources>
